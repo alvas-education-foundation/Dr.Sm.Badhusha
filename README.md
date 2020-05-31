@@ -10,4 +10,4 @@ Steps :  Get n and its elements (say for n=3 get 1,2,3)
          
  **Python Program  to find different digits r from number n using combination**
  Steps :  Get n and its elements (say for n=3 get 1,2,3)
-         get r so that it forms r digits ( say r=2, 12,13,23,21,31,32) i.e permuations!
+         get r so that it forms r digits ( say r=2, 12,13,23) i.e combination!
