@@ -8,3 +8,6 @@ Steps : Get numbers via keyboard and add them one by one in a list
 Steps :  Get n and its elements (say for n=3 get 1,2,3)
          get r so that it forms r digits ( say r=2, 12,13,23,21,31,32) i.e permuations!
          
+ **Python Program  to find different digits r from number n using combination**
+ Steps :  Get n and its elements (say for n=3 get 1,2,3)
+         get r so that it forms r digits ( say r=2, 12,13,23,21,31,32) i.e permuations!
