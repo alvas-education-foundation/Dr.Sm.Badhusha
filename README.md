@@ -20,5 +20,5 @@ Write the program takes two lists and maps two lists into a dictionary D .
 Steps:The program accepts a hyphen separated sequence of words as input and print the words in a hyphen-separated sequence after sorting them alphabetically
 
 
-**Python Program to Take in the Marks of 5 Subjects and Display the Grade using if ... elif construct without using and operator for finding the range **
+**Python Program to Take in the Marks of 5 Subjects and Display the Grade using if ... elif construct without using and operator for finding the range**
 Steps:The program: Take in the Marks of 5 Subjects and Display the Grade using if ... elif construct without using and operator for finding the range
