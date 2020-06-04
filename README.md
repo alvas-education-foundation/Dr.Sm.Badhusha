@@ -18,10 +18,12 @@ Write the program takes two lists and maps two lists into a dictionary D .
 
 
 **3.6.20 challenge is the following program**
+
 **Python Program to Take in the Marks of 5 Subjects and Display the Grade using if ... elif construct without using and operator for finding the range**
 Steps:The program: Take in the Marks of 5 Subjects and Display the Grade using if ... elif construct without using and operator for finding the range
 
 **4.6.20 challenge is the following program**
+
 **Python Program to Accept a Hyphen Separated Sequence of Words as Input and Print the Words in a Hyphen-Separated Sequence after Sorting them Alphabetically**
 Steps:The program accepts a hyphen separated sequence of words as input and print the words in a hyphen-separated sequence after sorting them alphabetically
 
