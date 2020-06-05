@@ -27,3 +27,7 @@ Steps:The program: Take in the Marks of 5 Subjects and Display the Grade using i
 **Python Program to Accept a Hyphen Separated Sequence of Words as Input and Print the Words in a Hyphen-Separated Sequence after Sorting them Alphabetically**
 Steps:The program accepts a hyphen separated sequence of words as input and print the words in a hyphen-separated sequence after sorting them alphabetically
 
+**5.6.20 The program takes a string and removes the nth index character from the non-empty string**
+Step : The program takes a string and removes the nth index character from the non-empty string.
+
+
