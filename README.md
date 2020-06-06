@@ -30,7 +30,9 @@ Steps:The program accepts a hyphen separated sequence of words as input and prin
 **5.6.20 The program takes a string and removes the nth index character from the non-empty string**
 Step : The program takes a string and removes the nth index character from the non-empty string.
 
-**6.6.20 Python Program to Count the Occurrences of a Word in a Text File **
+
+**6.6.20 Python Program to Count the Occurrences of a Word in a Text File**
+
 
 **7.6.20 Python Program to Copy the Contents of One File into Another**
 
