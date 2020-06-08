@@ -37,4 +37,13 @@ Step : The program takes a string and removes the nth index character from the n
 **7.6.20 Python Program to Copy the Contents of One File into Another**
 
 
+**8.6.20 Python Program to Check Whether a String is a Palindrome or not Using Recursion **
+
+
+**9.6.20 Python Program to Reverse a String Using Recursion **
+
+
+**10.6.20  Python Program to find the length of the list using Recursion**
+
+
 
