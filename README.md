@@ -45,5 +45,13 @@ Step : The program takes a string and removes the nth index character from the n
 
 **10.6.20  Python Program to find the length of the list using Recursion**
 
+**11.6.20 Python Program to find the average of all Items in a Dictionary 
+Step1: Get the name as key and marks as value for n students
+Step2: find the average of the marks of all the students and print it**
+
+**12.6.20 Python program to Count the Number of Vowels Present in a String using Sets 
+Step1: Get  a string
+Step2: find the  no of occurrence of all vowels in the string using data structure set**
+
 
 
