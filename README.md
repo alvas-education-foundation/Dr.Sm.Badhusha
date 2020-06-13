@@ -53,11 +53,16 @@ Step2: find the average of the marks of all the students and print it**
 Step1: Get  a string
 Step2: find the  no of occurrence of all vowels in the string using data structure set**
 
-**13.6.20 Python Program to Take in a String and Replace Every Blank Space with Hyphen 
-14.6.20 Python Program to Calculate the Length of a String Without Using a Library Function 
-15.6.20 Python Program to Remove the Characters of Odd Index Values in a String 
-16.6.20 Python Program to Calculate the Number of Words and the Number of Characters Present in a String
-17.6.20 Python Program to Take in Two Strings and Display the Larger String without Using Built-in Functions 
-18.6.20 Python Program to Count Number of Lowercase Characters in a String** 
+**13.6.20 Python Program to Take in a String and Replace Every Blank Space with Hyphen** 
+
+**14.6.20 Python Program to Calculate the Length of a String Without Using a Library Function** 
+
+**15.6.20 Python Program to Remove the Characters of Odd Index Values in a String** 
+
+**16.6.20 Python Program to Calculate the Number of Words and the Number of Characters Present in a String**
+
+**17.6.20 Python Program to Take in Two Strings and Display the Larger String without Using Built-in Functions** 
+
+**18.6.20 Python Program to Count Number of Lowercase Characters in a String** 
 
 
