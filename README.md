@@ -65,7 +65,7 @@ Step2: find the  no of occurrence of all vowels in the string using data structu
 
 **18.6.20 Python Program to Count Number of Lowercase Characters in a String** 
 
-**19.6.20 Python Program to Find the Area of a Cirle and  Using Classes**
+**19.6.20 Python Program to Find the Area and Perimeter of a Circle Using Classes**
 
 **20.6.20 Python Program that Reads a Text File and Counts the Number of Times a Certain Letter Appears in the Text File** 
 
