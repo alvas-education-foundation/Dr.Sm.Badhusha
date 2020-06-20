@@ -65,13 +65,21 @@ Step2: find the  no of occurrence of all vowels in the string using data structu
 
 **18.6.20 Python Program to Count Number of Lowercase Characters in a String** 
 
-**19.6.20 Python Program to Find the Area of a Cirle and  Using Classes 
-20.6.20 Python Program that Reads a Text File and Counts the Number of Times a Certain Letter Appears in the Text File 
-21.6.20 Python Program to Read a Text File and Print all the Numbers Present in the Text File 
-22.6.20 Python Program to Read the Contents of a File in Reverse Order 
-23.6.20 Python Program to Count the Number of Blank Spaces in a Text File 
-24.6.20 Python Program to Create a Class and Compute the Area and the Perimeter of the Circle
-25.6.20 Python Program to Read a File and Capitalize the First Letter of Every Word in the File 
-26.6.20 Python Program to Read the Contents of a File in Reverse Order
-27.6.20 Python Program to Find the Area of a Rectangle Using Classes**
+**19.6.20 Python Program to Find the Area of a Cirle and  Using Classes*
+
+**20.6.20 Python Program that Reads a Text File and Counts the Number of Times a Certain Letter Appears in the Text File 
+
+**21.6.20 Python Program to Read a Text File and Print all the Numbers Present in the Text File 
+
+**22.6.20 Python Program to Read the Contents of a File in Reverse Order 
+
+**23.6.20 Python Program to Count the Number of Blank Spaces in a Text File
+
+**24.6.20 Python Program to Create a Class and Compute the Area and the Perimeter of the Circle
+
+**25.6.20 Python Program to Read a File and Capitalize the First Letter of Every Word in the File 
+
+**26.6.20 Python Program to Read the Contents of a File in Reverse Order
+
+**27.6.20 Python Program to Find the Area of a Rectangle Using Classes**
 
