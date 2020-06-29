@@ -83,3 +83,27 @@ Step2: find the  no of occurrence of all vowels in the string using data structu
 
 **27.6.20 Python Program to Find the Area of a Rectangle Using Classes**
 
+
+**28.6.20  Python Program to Count the Number of Occurrences of an Element in the Linked List without using Recursions** 
+
+**29.6.20 Python Program to Count the Number of Occurrences of an Element in the Linked List using Recursions** 
+
+**30.6.20 Python Program to Read a Linked List in Reverses** 
+
+**01.7.20 Python Program to Create a Linked List & Display the Elements in the Lists** 
+
+**02.7.20 Python Program to Create a Class in which One Method Accepts a String from the User and Another Prints its** 
+
+**03.7.20  Python Program to Create a Class and Get All Possible Subsets from a Set of Distinct Integerss** 
+
+**04.7.20 Python Program to Create a Class in which One Method Accepts a String from the User and Another Prints its** 
+
+**05.7.20  Python Program to Create a Class which Performs Basic Calculator Operationss** 
+
+**06.7.20 Python Program to Append, Delete and Display Elements of a List Using Classes**
+ 
+**07.7.20 Python Program to Find the Sum of Cosine Series**
+    
+
+
+
