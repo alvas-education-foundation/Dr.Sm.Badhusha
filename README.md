@@ -103,6 +103,26 @@ Step2: find the  no of occurrence of all vowels in the string using data structu
 **06.7.20 Python Program to Append, Delete and Display Elements of a List Using Classes**
  
 **07.7.20 Python Program to Find the Sum of Cosine Series**
+
+**08.7.20 Python Program to Reverse a linked list** 
+
+**09.7.20 Python Program for Find largest prime factor of a number** 
+
+**10.7.20 Python Program for Efficient program to print all prime factors of a given number** 
+
+**11.7.20 Python Program for Product of unique prime factors of a number** 
+
+**12.7.20 Python Program for Find sum of odd factors of a number** 
+
+**13.7.20 Python Program for Coin Change** 
+
+**14.7.20 Python Program for Tower of Hanoi** 
+
+**15.7.20 Python Program for Sieve of Eratosthenes** 
+
+**16.7.20 Python Program to Check if binary representation is palind.7.20Python Program for Basic Euclidean algorithms** 
+
+**17.7.20 Python Program for Extended Euclidean algorithms**
     
 
 
