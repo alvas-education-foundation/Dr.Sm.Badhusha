@@ -120,7 +120,7 @@ Step2: find the  no of occurrence of all vowels in the string using data structu
 
 **15.7.20 Python Program for Sieve of Eratosthenes** 
 
-**16.7.20 Python Program to Check if binary representation is palind.7.20Python Program for Basic Euclidean algorithms** 
+**16.7.20 Python Program to Check if binary representation is palind**
 
 **17.7.20 Python Program for Extended Euclidean algorithms**
     
@@ -172,14 +172,14 @@ Step2: find the  no of occurrence of all vowels in the string using data structu
 
 **10.8.20 Check whether a number has consecutive 0’s in the given base or not**
 
-**11.7.20Python Program for Number of solutions to Modular Equations**
+**11.8.20Python Program for Number of solutions to Modular Equations**
 
-**12.7.20Python Program for Triangular Matchstick Number**
+**12.8.20Python Program for Triangular Matchstick Number**
 
-**13.7.20Python Program for Legendre\’s Conjecture**
+**13.8.20Python Program for Legendre\’s Conjecture**
 
-**14.7.20Python program to check if a string contains all unique characters**
+**14.8.20Python program to check if a string contains all unique characters**
 
-**15.7.20 Python program to copy odd lines of one file to other** 
+**15.8.20 Python program to copy odd lines of one file to other** 
 
 
