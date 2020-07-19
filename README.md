@@ -124,34 +124,62 @@ Step2: find the  no of occurrence of all vowels in the string using data structu
 
 **17.7.20 Python Program for Extended Euclidean algorithms**
     
-**18.7.20 Python Program for Number of elements with odd factors in given range 
-19.7.20 Python Program for Common Divisors of Two Numbers 
-20.7.20 Python Program for Maximum height when coins are arranged in a triangle 
-21.7.20 Python Program for GCD of more than two (or array) numbers 
-22.7.20 Python Program for Check if count of divisors is even or odd 
-23.7.20 Python Program for Find minimum sum of factors of number 
-24.7.20 Python Program for Difference between sums of odd and even digits 
-25.7.20 Python Program for Program to Print Matrix in Z form 
-26.7.20 Python Program for Largest K digit number divisible by X 
-27.7.20 Python Program for Smallest K digit number divisible by X 
-28.7.20 Python Program for Print Number series without using any loop 
-29.7.20 Python Program for Number of stopping station problem 
-30.7.20 Python Program for Program to calculate area of a Tetrahedron 
-31.7.20 Python Program for focal length of a spherical mirror 
-01.8.20 Python Program for Find the perimeter of a cylinder 
-02.8.20 Check if a triangle of positive area is possible with the given angles 
-03.8.20 Python Program for Number of jump required of given length to reach a point of form (d, 0) from origin in 2D plane 
-04.8.20 Python Program for Finding the vertex, focus and directrix of a parabola 
-05.8.20 Python program to find the most occurring character and its count 
-06.8.20 Python Program for Find sum of even factors of a number 
-07.8.20 Python Program for Check if all digits of a number divide it 
-08.8.20 Python program to convert float decimal to Octal number 
-09.8.20 Python program to convert floating to binary 
-10.8.20 Check whether a number has consecutive 0’s in the given base or not 
-11.7.20Python Program for Number of solutions to Modular Equations 
-12.7.20Python Program for Triangular Matchstick Number 
-13.7.20Python Program for Legendre\’s Conjecture 
-14.7.20Python program to check if a string contains all unique characters 
-15.7.20 Python program to copy odd lines of one file to other** 
+**18.7.20 Python Program for Number of elements with odd factors in given range**
+
+**19.7.20 Python Program for Common Divisors of Two Numbers**
+
+**20.7.20 Python Program for Maximum height when coins are arranged in a triangle**
+
+**21.7.20 Python Program for GCD of more than two (or array) numbers**
+
+**22.7.20 Python Program for Check if count of divisors is even or odd**
+
+**23.7.20 Python Program for Find minimum sum of factors of number**
+
+**24.7.20 Python Program for Difference between sums of odd and even digits**
+
+**25.7.20 Python Program for Program to Print Matrix in Z form**
+
+**26.7.20 Python Program for Largest K digit number divisible by X**
+
+**27.7.20 Python Program for Smallest K digit number divisible by X**
+
+**28.7.20 Python Program for Print Number series without using any loop**
+
+**29.7.20 Python Program for Number of stopping station problem**
+
+**30.7.20 Python Program for Program to calculate area of a Tetrahedron**
+
+**31.7.20 Python Program for focal length of a spherical mirror**
+
+**01.8.20 Python Program for Find the perimeter of a cylinder**
+
+**02.8.20 Check if a triangle of positive area is possible with the given angles**
+
+**03.8.20 Python Program for Number of jump required of given length to reach a point of form (d, 0) from origin in 2D plane**
+
+**04.8.20 Python Program for Finding the vertex, focus and directrix of a parabola**
+
+**05.8.20 Python program to find the most occurring character and its count**
+
+**06.8.20 Python Program for Find sum of even factors of a number**
+
+**07.8.20 Python Program for Check if all digits of a number divide it**
+
+**08.8.20 Python program to convert float decimal to Octal number**
+
+**09.8.20 Python program to convert floating to binary**
+
+**10.8.20 Check whether a number has consecutive 0’s in the given base or not**
+
+**11.7.20Python Program for Number of solutions to Modular Equations**
+
+**12.7.20Python Program for Triangular Matchstick Number**
+
+**13.7.20Python Program for Legendre\’s Conjecture**
+
+**14.7.20Python program to check if a string contains all unique characters**
+
+**15.7.20 Python program to copy odd lines of one file to other** 
 
 
